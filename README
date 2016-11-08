@@ -1,0 +1,15 @@
+# Rhythm Maker
+
+## Synopsis
+
+This is a java application built with the JMusic and Swing libraries.
+The documentation for the JMusic library can be found [here](http://explodingart.com/jmusic/jmDocumentation/index.html).
+
+The application gives you the ability to input a string of Notes and rests and
+play them back to hear what they would sound like. The application is designed
+specifically for students to help them understand what a rhythm is supposed
+to sound like.
+
+## Installation
+
+Download the github zip file and open it up in the NetBeans IDE.
